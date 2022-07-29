@@ -2,7 +2,7 @@
 
 - 🌍 I’m Silas Roberto
 - 📫 I live in BRAZIL
-- 👀 I’m interested in Python, mobile and network (GNS3)
+- 👀 I’m interested in Python, Mobile and NetWork(GNS3)
 - 🌱 I’m currently learning "JavaSpcrit"
 
 <!---
