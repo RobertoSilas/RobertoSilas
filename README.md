@@ -3,7 +3,7 @@
 - 🌍 I’m Silas Roberto
 - 📫 I live in BRAZIL
 - 👀 I’m interested in Python, Mobile and NetWork(GNS3)
-- 🌱 I’m currently learning "JavaSpcrit"
+- 🌱 I’m currently learning "  "
 
 <!---
 RobertoSilas/RobertoSilas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
